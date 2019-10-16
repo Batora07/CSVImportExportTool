@@ -1,0 +1,329 @@
+Date de dernière mise à jour;"Médicaments sous ATU (nom, dosage, forme pharmaceutique)";"Substance active";"Laboratoire";"Statut de l'ATU octroyée (nominative/cohorte)";Date de début de l'ATU;Date de fin de l'ATU;Indication de l'ATU de cohorte;Code indication;Libellé du code UCD;"UCD 7";UCD 13;Réserve hospitalière (oui/non)
+19/02/2019;ABT-414 100 mg, poudre pour solution à diluer pour perfusion;dépatuxizumab mafodotine;ABBVIE;Nominative;Sans Objet;;Sans Objet;NXXXX00;ABT-414 100MG PDR PERF FL;9442969;3400894429692;OUI
+19/02/2019;ABT-414 20 mg, poudre pour solution à diluer pour perfusion;dépatuxizumab mafodotine;ABBVIE;Nominative;Sans Objet;;Sans Objet;NXXXX00;ABT-414 20MG PDR PERF FL;9430707;3400894307075;OUI
+19/02/2019;ADAGEN 250 U/ml, solution injectable;pégademase bovine;LEADIANT BIOSCIENCES LTD.;Nominative;Sans Objet;;Sans Objet;NXXXX00;ADAGEN 250U/ML INJ AMP;9239493;3400892394930;NON
+19/02/2019;ADV7103, granulés à libération prolongée;citrate de potassium et bicarbonate de potassium;ADVICENNE;Nominative;Sans Objet;;Sans Objet;NXXXX00;ADV7103 24MEQ GLE LP SACH;9439950;3400894399506;NON
+19/02/2019;ADV7103, granulés à libération prolongée;citrate de potassium et bicarbonate de potassium;ADVICENNE;Nominative;Sans Objet;;Sans Objet;NXXXX00;ADV7103 8MEQ GLE LP SACH;9439967;3400894399674;NON
+19/02/2019;ALINIA 100 mg/5 ml, suspension buvable;nitazoxanide;ROMARK PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;ALINIA 100MG/5ML BUV FL60ML;9299242;3400892992426;NON
+19/02/2019;ALINIA 500 mg, comprimé;nitazoxanide;ROMARK PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;ALINIA 500MG CPR;9294463;3400892944630;NON
+19/02/2019;ALPELISIB 200 mg, comprimé pelliculé;alpelisib;NOVARTIS PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;ALPELISIB NPH 200MG CPR;9442811;3400894428114;NON
+19/02/2019;ALPELISIB 50 mg, comprimé pelliculé;alpelisib;NOVARTIS PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;ALPELISIB NPH 50MG CPR;9442828;3400894428282;NON
+19/02/2019;ALPHAGAN P 0,15 %, collyre en solution;brimonidine (tartrate);ALLERGAN FRANCE;Nominative;Sans Objet;;Sans Objet;NXXXX00;ALPHAGAN P 0,15% COLLY FL10ML;9313321;3400893133217;NON
+19/02/2019;AMANTADINE HYDROCHLORIDE 50 mg/5 ml, sirop;amantadine;AUDEN MCKENZIE (PHARMA DIVISION) LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;AMANTADINE AUD 50MG/5ML SIR;9419999;3400894199991;NON
+19/02/2019;AMMONUL 10%/10%, poudre et solvant pour solution injectable;sodium (benzoate) et sodium (phénylacétate);VALEANT PHARMACEUTICALS NORTH AMERICA LLC;Nominative;Sans Objet;;Sans Objet;NXXXX00;AMMONUL 10%/10% INJ FL+FL;9317023;3400893170236;OUI
+19/02/2019;ANTAXONE 50 mg/10 ml, solution buvable;naltrexone (chlorhydrate);PHARMAZAM S.A.;Nominative;Sans Objet;;Sans Objet;NXXXX00;ANTAXONE 50MG/10ML BUV FL  ;9300005;3400893000052;NON
+19/02/2019;ANTICHOLIUM 2 mg/5 ml, solution injectable;physostigmine (salicylate);LABORATOIRE KOHLER CHEMIE;Nominative;Sans Objet;;Sans Objet;NXXXX00;ANTICHOLIUM SOL INJ AMP5ML;9243810;3400892438108;NON
+19/02/2019;ANTIVIPMYN TRI, solution injectable;Immunoglobulines équines;INSTITUTO BIOCLON S.A. DE C.V.;Nominative;Sans Objet;;Sans Objet;NXXXX00;ANTIVYPMIN TRI SOL INJ FL;9318962;3400893189627;OUI
+28/02/2019;APALUTAMIDE 60 MG, comprimé pelliculé;apalutamide;JANSSEN-CILAG;Cohorte;03/09/2018;20/02/2019;Traitement des hommes atteints d’un cancer de la prostate résistant à la castration non métastatique (nmCRPC) avec un temps de doublement du taux de PSA inférieur ou égal à 10 mois;CAPAL01;APALUTAMIDE JAC 60MG CPR;9440284;3400894402848;NON
+19/02/2019;APALUTAMIDE 60 MG, comprimé pelliculé;apalutamide;JANSSEN-CILAG;Nominative;Sans Objet;20/02/2019;Sans Objet;NXXXX00;APALUTAMIDE JAC 60MG CPR;9440284;3400894402848;NON
+19/02/2019;ARIKAYCE 70 mg/ml, suspension pour inhalation par nébuliseur;amikacine liposomale;INSMED INCORPORATED;Nominative;Sans Objet;;Sans Objet;NXXXX00;ARIKACE 70MG/ML INHAL NEB;9399995;3400893999950;NON
+19/02/2019;ATGAM 50 mg/ml, solution injectable;immunoglobuline équine anti-thymocytes humains;PFIZER;Cohorte;16/01/2019;;Traitement des formes modérées à sévères d’aplasie médullaire acquise, en association avec la ciclosporine chez l’adulte et l’enfant de plus de 2 ans ne pouvant pas recevoir de greffe de moelle osseuse;CTHYM01;ATGAM 50ML/ML INJ AMP5ML;9381564;3400893815649;OUI
+19/02/2019;ATGAM 50 mg/ml, solution injectable;immunoglobuline équine anti-thymocytes humains;PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;ATGAM 50ML/ML INJ AMP5ML;9381564;3400893815649;OUI
+19/02/2019;ATTENTIN 5 mg, comprimé;dexamphétamine;H.A.C. PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;ATTENTIN 5MG CPR;9422493;3400894224938;NON
+19/02/2019;AVAPRITINIB 100 mg, comprimé;avapritinib;BLUEPRINT MEDICINES;Nominative;Sans Objet;;Sans Objet;NXXXX00;AVAPRITINIB BTM 100MG CPR;9444632;340089444632 3;NON
+19/02/2019;BAT, solution à diluer pour perfusion;Botulism Antitoxin Heptavalent (A, B, C, D, E, F, G)-(Equine);CANGENE CORPORATION;Nominative;Sans Objet;;Sans Objet;NXXXX00;BAT SOL PERF FL;9436325;3400894363255;OUI 
+28/02/2019;BELEODAQ 500 mg , poudre pour solution injectable;belinostat;ONXEO;Nominative;Sans Objet;;Sans Objet;NXXXX00;BELEODAQ 500MG PDR INJ FL;9445614;3400894456148;OUI
+19/02/2019;BELLAFIT 0,5 mg/ml, solution buvable en gouttes;atropine (sulfate);G. STREULI AND CIE. SA;Nominative;Sans Objet;;Sans Objet;NXXXX00;BELLAFIT 0,5MG/ML BUV GTT FL;9355532;3400893555323;NON
+19/02/2019;BIOBAG, sachet;larves de Lucilia sericata;BIOMONDE GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;BIOBAG 2,5*4CM PANS LARV SAC;9384255;3400893842553;Oui
+19/02/2019;BIOBAG, sachet;larves de Lucilia sericata;BIOMONDE GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;BIOBAG 4*5CM PANS LARV SAC;9384261;3400893842614;Oui
+19/02/2019;BIOBAG, sachet;larves de Lucilia sericata;BIOMONDE GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;BIOBAG 5*6CM PANS LARV SAC;9384278;3400893842782;Oui
+19/02/2019;BIOBAG, sachet;larves de Lucilia sericata;BIOMONDE GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;BIOBAG 6*12CM PANS LARV SAC;9384284;3400893842843;Oui
+19/02/2019;BOTHROFAV 10 ml, solution pour perfusion;fragments F(ab')2 d'immunoglobulines T antivenin d’origine équine;MICROPHARMA LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;BOTHROFAV SOL PERF FL10ML;9185366;3400891853667;OUI
+19/02/2019;BRETSCHNEIDER 1000ml, solution de cardioplégie;solution de cardioplégie;EUSA PHARMA;Cohorte;01/04/2015;;Cardioplégie et protection myocardique au cours des interventions de chirurgie cardiaque dont le temps de clampage est supérieur à 90 min.;CCARD01;CUSTODIOL SOL CARDIO P1000ML;9409630;3400894096306;OUI
+19/02/2019;BRETSCHNEIDER 1000ml, solution de cardioplégie;solution de cardioplégie;EUSA PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;CUSTODIOL SOL CARDIO P1000ML;9409630;3400894096306;OUI
+19/02/2019;BRETSCHNEIDER 2000ml, solution de cardioplégie;solution de cardioplégie;EUSA PHARMA;Cohorte;01/04/2015;;Cardioplégie et protection myocardique au cours des interventions de chirurgie cardiaque dont le temps de clampage est supérieur à 90 min.;CCARD01;CUSTODIOL SOL CARDIO P2000ML;9409647;3400894096474;OUI
+19/02/2019;BRETSCHNEIDER 2000ml, solution de cardioplégie;solution de cardioplégie;EUSA PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;CUSTODIOL SOL CARDIO P2000ML;9409647;3400894096474;OUI
+19/02/2019;BRETSCHNEIDER 5000ml,  solution de cardioplégie;solution de cardioplégie;EUSA PHARMA;Cohorte;01/04/2015;;Cardioplégie et protection myocardique au cours des interventions de chirurgie cardiaque dont le temps de clampage est supérieur à 90 min.;CCARD01;CUSTODIOL SOL CARDIO P5000ML;9409653;3400894096535;OUI
+19/02/2019;BRETSCHNEIDER 5000ml,  solution de cardioplégie;solution de cardioplégie;EUSA PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;CUSTODIOL SOL CARDIO P5000ML;9409653;3400894096535;OUI
+19/02/2019;BRETSCHNEIDER 500ml, solution de cardioplégie;solution de cardioplégie;EUSA PHARMA;Cohorte;01/04/2015;;Cardioplégie et protection myocardique au cours des interventions de chirurgie cardiaque dont le temps de clampage est supérieur à 90 min.;CCARD01;CUSTODIOL SOL CARDIO FL500ML;9409624;3400894096245;OUI
+19/02/2019;BRETSCHNEIDER 500ml, solution de cardioplégie;solution de cardioplégie;EUSA PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;CUSTODIOL SOL CARDIO FL500ML;9409624;3400894096245;OUI
+19/02/2019;BRIGATINIB 180 mg, comprimé pelliculé;brigatinib;TAKEDA FRANCE;Nominative;Sans Objet;21/01/2019;Sans Objet;NXXXX00;BRIGATINIB TKD 180MG CPR;9438324;3400894383246;NON
+19/02/2019;BRIGATINIB 30 mg, comprimé;brigatinib;TAKEDA FRANCE;Nominative;Sans Objet;21/01/2019;Sans Objet;NXXXX00;BRIGATINIB TKD 30MG CPR;9438330;3400894383307;NON
+19/02/2019;BRIGATINIB 90 mg, comprimé pelliculé;brigatinib;TAKEDA FRANCE;Nominative;Sans Objet;21/01/2019;Sans Objet;NXXXX00;BRIGATINIB TKD 90MG CPR;9442840;3400894428404;NON
+19/02/2019;BROLENE 0,10%, collyre en solution;propamidine (iséthionate);AVENTIS PHARMA LIMITED;Nominative;Sans Objet;;Sans Objet;NXXXX00;BROLENE 0,10% COLLY FL10ML;9243827;3400892438276;NON
+19/02/2019;BUROSUMAB 10 mg, solution injectable;burosumab;KYOWA KIRIN PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;BUROSUMAB KKP 10MG INJ FL;9436383;3400894363835;NON
+19/02/2019;BUROSUMAB 30 mg, solution injectable;burosumab;KYOWA KIRIN PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;BUROSUMAB KKP 30MG INJ FL;9436408;3400894364085;NON
+19/02/2019;BYL719 200 mg, comprimé pelliculé;BYL719;NOVARTIS PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;BYL719 200MG CPR PELLIC;9417032;3400894170327;NON
+19/02/2019;BYL719 50 mg, comprimé pelliculé;BYL719;NOVARTIS PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;BYL719 50MG CPR PELLIC;9417049;3400894170495;NON
+19/02/2019;CABLIVI 10 mg, poudre et solvant pour solution injectable;caplacizumab; SANOFI AVENTIS France;Nominative;Sans Objet;06/02/2019;Sans Objet;NXXXX00;CABLIVI 10MG INJ FL+FL;9438057;3400894380573;OUI
+19/02/2019;CABOTEGRAVIR 30 mg, comprimé;cabotegravir;GLAXOSMITHKLINE RESEARCH & DEVELOPMENT LIMITED;Nominative;Sans Objet;;Sans Objet;NXXXX00;CABOTEGRAVIR GSK 30MG CPR;9431606;3400894316060;NON
+19/02/2019;CABOTEGRAVIR 400 mg/2 ml, suspension injectable;cabotegravir;GLAXOSMITHKLINE RESEARCH & DEVELOPMENT LIMITED;Nominative;Sans Objet;;Sans Objet;NXXXX00;CABOTEGRAVIR GSK 400MG/2ML F;9423357;3400894233572;NON
+19/02/2019;CAMPATH 30 mg/ml, solution à diluer pour perfusion;alemtuzumab;SANOFI AVENTIS France;Nominative;Sans Objet;;Sans Objet;NXXXX00;CAMPATH 30MG/ML INJ FV;9386952;3400893869529;OUI 
+19/02/2019;"CAPASTAT 1 g, poudre pour solution injectable";Capreomycine (sulfate);Vianex SA;Nominative;Sans Objet;;Sans Objet;NXXXX00; CAPASTAT 1G INJ FL 1;9289930;3400892899305;NON
+19/02/2019;CATAPRESS TTS 0,2 mg/24h, dispositif transdermique;clonidine (chlorhydrate);LABORATOIRES BOEHRINGER INGELHEIM ITALIA SPA;Nominative;Sans Objet;;Sans Objet;NXXXX00;CATAPRESS TTS 0,2MG/24H DISP ;9296309;3400892963099;NON
+19/02/2019;CEDIRANIB 15 mg, comprimé;cediranib;ASTRA ZENECA;Nominative;Sans Objet;;Sans Objet;NXXXX00;CEDIRANIB ASZ 15MG CPR;9444856;3400894448563;NON
+19/02/2019;CEENU 10 mg, gélule;lomustine-CCNU;BRISTOL-MYERS SQUIBB CANADA;Nominative;Sans Objet;;Sans Objet;NXXXX00;CEENU 10MG GELU; 9428082 ;34008 9428082 8;NON
+19/02/2019;CEFIDEROCOL (S 649266) 1 g , solution injectable;cefiderocol;SHIONOGI LTD.;Nominative;Sans Objet;;Sans Objet;NXXXX00;CEFIDEROCOL SHO 1G INJ FL;9444862;3400894448624;OUI
+19/02/2019;CF301 10 mg/ml, solution injectable;exebacase;CONTRAFECT;Nominative;Sans Objet;;Sans Objet;NXXXX00;CF301 10MG/ML INJ FL;9444879;3400894448792;OUI
+19/02/2019;CIDOFOVIR 75 mg/ml, solution injectable;cidofovir;EMCURE PHARMACEUTICALS LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;CIDOFOVIR NXP 75MG/ML FL5ML;9404992;3400894049920;OUI
+19/02/2019;CMX 001 10 mg/ml, suspension buvable;brincidofovir;CHIMERIX;Nominative;Sans Objet;;Sans Objet;NXXXX00;CMX 001 10MG/ML BUV FL;9416860;3400894168607;NON
+19/02/2019;CMX 001 100 mg, comprimé;brincidofovir;CHIMERIX;Nominative;Sans Objet;;Sans Objet;NXXXX00;CMX 001 100MG CPR;9407364;3400894073642;NON
+19/02/2019;CRIZOTINIB PFIZER NOURRISSONS ET ENFANTS 25 mg/ml, solution buvable;crizotinib;PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;CRIZOTINIB PFZ 25MG/ML 240ML;9390793;3400893907931;NON
+19/02/2019;CTL019, suspension injectable;tisagenlecleucel-T;NOVARTIS PHARMA SAS;Nominative;Sans Objet;;Sans Objet;NXXXX00;CTL019 SUSP INJ FL;9428099;3400894280996;OUI
+19/02/2019;CYCLOSERINE 250 mg, gélule;cyclosérine;KING PHARMACEUTICALS LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;CYCLOSERINE 250MG GELU;9289947;3400892899473;NON
+19/02/2019;CYT 107 2 mg/ml, solution injectable;interleukine 7;REVIMMUNE SAS;Nominative;Sans Objet;;Sans Objet;NXXXX00;CYT 107 2MG/ML SOL INJ FL;9420034;3400894200345;OUI
+19/02/2019;CYTOTECT CP BIOTEST 100 U/ml, solution pour perfusion 10 ml;Immunoglobulines humaines anti-CMV;BIOTEST PHARMA GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;CYTOTECT CP 100U/ML FL10ML;9406092;3400894060925;OUI
+19/02/2019;CYTOTECT CP BIOTEST 100 U/ml, solution pour perfusion 50 ml;Immunoglobulines humaines anti-CMV;BIOTEST PHARMA GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;CYTOTECT CP 100U/ML FL50ML;9406100;3400894061007;OUI
+19/02/2019;DABRAFENIB 10 mg /ml, poudre pour suspension buvable;dabrafenib;NOVARTIS PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;DABRAFENIB NPH 10MG/ML BUV FL;9442981;3400894429814;NON
+19/02/2019;DAPSONE 50 mg, comprimé;dapsone;ACTAVIS LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;DAPSONE 50MG CPR;9318985;3400893189856;NON
+19/02/2019;DAUNOXOME  2 mg/ml, dispersion liposomale à diluer injectable;daunorubicine;GALEN LIMITED;Nominative;Sans Objet;;Sans Objet;NXXXX00;DAUNOXOME 2MG/ML INJ FL50ML;9184467;3400891844672;NON
+19/02/2019;DECORENONE 50 mg, gélule;ubidécarénone;ITALFARMACO SPA;Nominative;Sans Objet;;Sans Objet;NXXXX00;DECORENONE 50MG GELU ;9246139;3400892461397;NON
+19/02/2019;DECORENONE, 50 mg/10 ml, solution buvable;ubidécarénone;ITALFARMACO SPA;Nominative;Sans Objet;;Sans Objet;NXXXX00;DECORENONE 50MG/10ML BUV FL  ;9246145;3400892461458;NON
+19/02/2019;DEMSER 250 mg, gélule;métyrosine;ATON PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;DEMSER 250MG GELU;9420040;3400894200406;NON
+19/02/2019;DESURIC 100 mg, comprimé sécable;benzbromarone;PROSTRAKAN PHARMA BV;Nominative;Sans Objet;;Sans Objet;NXXXX00;DESURIC 100MG CPR;9025697;3400890256971;NON
+19/02/2019;DEXSOL 2mg/5ml, solution buvable;dexaméthasone (phosphate);ROSEMONT PHARMACEUTICALS LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;DEXSOL 2MG/5ML BUV FL150ML;9355041;3400893550410;NON
+19/02/2019;DIBRO-BE MONO 850 mg, comprimé sécable;potassium (bromure);DIBROPHARM ARZNEIMITTEL;Nominative;Sans Objet;;Sans Objet;NXXXX00;DIBRO-BE MONO 850MG CPR;9300040;3400893000403;NON
+19/02/2019;DIPHTERIA ANTITOXIN (EQUINE) 1000 IU/ml, solution injectable;immunoglobuline équine antidiphtérique;INTERVAX;Nominative;Sans Objet;;Sans Objet;NXXXX00;DIPHTERIA ANTITOX 1000UI/ML FL;9417210;3400894172109;OUI
+19/02/2019;DODECAVIT 5 mg/ml, solution injectable;hydroxocobalamine (acétate);SERB;Nominative;Sans Objet;;Sans Objet;NXXXX00;DODECAVIT 5MG/ML AMP2ML;9291111;3400892911113;NON
+19/02/2019;DOPS OD 100 mg, comprimé orodispersible;droxidopa;SUMITOMO PHARMACEUTICAL CO LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;DOPS OD 100MG CPR DISP;9403159;3400894031598;NON
+19/02/2019;DOPS OD 200 mg, comprimé orodispersible;droxidopa;SUMITOMO PHARMACEUTICAL CO LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;DOPS OD 200MG CPR DISP;9445040;3400894450405;NON
+19/02/2019;DORIBAX 500 mg, poudre pour solution pour perfusion;Doripeneme;JANSSEN CILAG;Nominative;Sans Objet;;Sans Objet;NXXXX00;DORIBAX 500MG PERF FL 1;9316868;3400893168684;OUI
+19/02/2019;DOTA-NOC 50 µg, poudre pour solution injectable;DOTA-[Nal3]-octreotide;IASON LABORMEDEZIN GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;DOTA-TOC 50MCG SOL INJ FL;9392409;3400893924099;OUI
+19/02/2019;EDROPHONIUM INJECTION BP 10mg/1ml, solution injectable;édrophonium (chlorure);CAMBRIDGE LABORATORIES LIMITED;Nominative;Sans Objet;;Sans Objet;NXXXX00;EDROPHONIUM BP 10MG/1ML FL;9384462;3400893844625;OUI
+19/02/2019;ELMISOL 10 mg, comprimé;lévamisole;ACE PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;ELMISOL 10MG CPR;9319772;3400893197721;NON
+19/02/2019;ELMISOL 25 mg, comprimé;lévamisole;ACE PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;ELMISOL 25MG CPR;9319789;3400893197899;NON
+19/02/2019;ELMISOL 5 mg, comprimé;lévamisole;ACE PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;ELMISOL 5MG CPR;9319795;3400893197950;NON
+19/02/2019;ELMISOL 50 mg, comprimé;lévamisole;ACE PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;ELMISOL 50MG CPR;9319803;3400893198032;NON
+19/02/2019;EMSAM 12 mg/24 h, dispositif transdermique;selegiline;MYLAN;Nominative;Sans Objet;;Sans Objet;NXXXX00;EMSAM 12MG/24H DISP TRANS;9416877;3400894168775;NON
+19/02/2019;EMSAM 6 mg/24h, dispositif transdermique;selegiline;MYLAN;Nominative;Sans Objet;;Sans Objet;NXXXX00;EMSAM 6MG/24H DISP TRANS;9410886;3400894108863;NON
+19/02/2019;EMSAM 9 mg/24h, dispositif transdermique;selegiline;MYLAN;Nominative;Sans Objet;;Sans Objet;NXXXX00;EMSAM 9MG/24H DISP TRANS;9420086;3400894200864;NON
+19/02/2019;ENDARI 5 g, poudre orale;L-glutamine;EMMAUS MEDICAL;Nominative;Sans Objet;;Sans Objet;NXXXX00;ENDARI 5G PDR ORAL SACH;9436331;3400894363316;NON
+19/02/2019;ENLON, solution injectable;édrophonium (chlorure);MYLAN INSTITUTIONAL LLC;Nominative;Sans Objet;;Sans Objet;NXXXX00;ENLON 10MG/ML INJ FL15ML;9300063;3400893000632;OUI
+19/02/2019;ENTINOSTAT 1 mg , comprimé;entinostat;SYNDAX PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;ENTINOSTAT SYD 1MG CPR;9444690;3400894446903;NON
+19/02/2019;ENTINOSTAT 5 mg, comprimé;entinostat;SYNDAX PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;ENTINOSTAT SYD 5MG CPR;9444709;3400894447092;NON
+19/02/2019;EPANUTIN 30 mg/5 ml, suspension buvable;phénytoïne;PFIZER PGM;Nominative;Sans Objet;;Sans Objet;NXXXX00;EPANUTIN 30MG/5ML BUV FL;9300086;3400893000861;NON
+19/02/2019;EPHEDRINE HYDROCHLORIDE  15 mg, comprimé;éphédrine (chlorhydrate);WOCKHARDT UK LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;EPHEDRINE HYD WKT 15MG CPR;9355555;3400893555552;NON
+19/02/2019;EPIDIOLEX 100 mg/ml, solution orale;cannabidiol;GW PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;EPIDIOLEX 100MG/ML SOL FL10ML;9431641;3400894316411;NON
+19/02/2019;EPJEVY 100 mg, gélule;pacritinib;CTI LIFE SCIENCES LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;EPJEVY 100MG GELU;9443087;3400894430872;NON
+19/02/2019;ERDAFITINIB 3 mg, comprimé;erdafitinib;JANSSEN-CILAG;Nominative;Sans Objet;;Sans Objet;NXXXX00;ERDAFITINIB JAC 3MG CPR;9434177;3400894341772;NON
+19/02/2019;ERDAFITINIB 4 mg, comprimé;erdafitinib;JANSSEN-CILAG;Nominative;Sans Objet;;Sans Objet;NXXXX00;ERDAFITINIB JAC 4MG CPR;9434183;3400894341833;NON
+19/02/2019;ERDAFITINIB 5 mg, comprimé;erdafitinib;JANSSEN-CILAG;Nominative;Sans Objet;;Sans Objet;NXXXX00;ERDAFITINIB JAC 5MG CPR;9434208;3400894342083;NON
+19/02/2019;ETIDRONATE 200 mg, comprimé;étidronate;MYLAN;Nominative;Sans Objet;;Sans Objet;NXXXX00;ETIDRONATE MYL 200MG CPR;9242414;3400892424149;NON
+19/02/2019;ETIDRONATE 400 mg, comprimé;étidronate;MYLAN;Nominative;Sans Objet;;Sans Objet;NXXXX00;ETIDRONATE MYL 400MG CPR;9236454;3400892364544;NON
+19/02/2019;FAVIREPT, solution injectable;fragments f(ab')2 d'immunoglobuline equine antivenimeuse de Bitis, Echis, Naja, Cerastes et Macrovip;PASTEUR MERIEUX SERUM & VACCINS;Nominative;Sans Objet;;Sans Objet;NXXXX00;FAVIREPT INJ FL;9439602;3400894396024;OUI 
+19/02/2019;FURADANTIN OU NITROFURANTOINE 5 mg/ml, solution buvable;nitrofurantoïne;GOLDSHIELD PHARMACEUTICALS LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;FURADANTIN 5MG/ML BUV FL 1;9320812;3400893208120;NON
+19/02/2019;GLIBENTEK 0.6 mg/ml, solution buvable;glibenclamide;UNITHER DEVELOPPEMENT BORDEAUX;Nominative;Sans Objet;;Sans Objet;NXXXX00;GLIBENTEK 0,6MG/ML BUV FL30ML;9416989;3400894169895;NON
+19/02/2019;GLIBENTEK 6 mg/ml, solution buvable;glibenclamide;UNITHER DEVELOPPEMENT BORDEAUX;Nominative;Sans Objet;;Sans Objet;NXXXX00;GLIBENTEK 6MG/ML BUV FL;9420092;3400894200925;NON
+19/02/2019;GRASPA, suspension injectable;L-ASPARAGINASE ENCAPSULÉE;ERYTECH PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;GRASPA SUSP INJ FL;9439619;3400894396192;OUI
+19/02/2019;GS 101  0,86 mg/ml, collyre en solution, en récipient unidose;aganirsen;STRAGEN;Nominative;Sans Objet;;Sans Objet;NXXXX00;GS 101 0,86MG/ML COLLY  DOS;9385496;3400893854969;NON
+19/02/2019;GUTRON 10 mg/ml, solution buvable en gouttes;midodrine;TAKEDA FRANCE;Nominative;Sans Objet;;Sans Objet;NXXXX00;GUTRON 10MG/ML BUV FL;9431693;3400894316930;NON
+19/02/2019;HAEMATE P 1000 IU, poudre et solvant pour solution injectable;1000 IU de FVIII / 2400 IU de VWF;CSL BEHRING GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;HAEMATE P 1000UI INJ FL+FL;9299093;3400892990934;NON
+19/02/2019;HEXALEN 50 mg, gélule;Altretamine;EISAI;Nominative;Sans Objet;;Sans Objet;NXXXX00;HEXALEN 50MG GELU;9355561;3400893555613;NON
+19/02/2019;HUMATIN 125 mg, solution buvable;paromomycine (sulfate);PFIZER PHARMA GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;HUMATIN 125MG SOL BUV FL;9299561;3400892995618;NON
+19/02/2019;HUMATIN 250 mg, gélule;paromomycine (sulfate);PFIZER PHARMA GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;HUMATIN 250MG GELU;9044677;3400890446778;NON
+19/02/2019;HUMULIN REGULAR 500 UI/ml, suspension injectable;insuline;ELI LILLY INTERNATIONAL  LILLY CORPORATE;Nominative;Sans Objet;;Sans Objet;NXXXX00;HUMULIN REGULAR 500UI/ML FL;9299265;3400892992655;NON
+19/02/2019;IDHIFA 100 mg, comprimé;enasidenib;CELGENE FRANCE;Nominative;Sans Objet;;Sans Objet;NXXXX00;IDHIFA 100MG CPR;9436348;3400894363484;NON
+19/02/2019;IDHIFA 50 mg, comprimé;enasidenib;CELGENE FRANCE;Nominative;Sans Objet;;Sans Objet;NXXXX00;IDHIFA 50MG CPR;9436354;3400894363545;NON
+19/02/2019;IMFINZI 50MG/ML, solution injectable;durvalumab;ASTRA ZENECA;Nominative;Sans Objet;;Sans Objet;NXXXX00;IMFINZI 50MG/ML SOL INJ FL;9433485;3400894334859;OUI 
+19/02/2019;IMMUSEVEN 600 UI, poudre et solvant pour solution injectable;facteur VII de coagulation humain;BAXTER;Nominative;Sans Objet;;Sans Objet;NXXXX00;IMMUSEVEN 600UI INJ FL+FL;9373665;3400893736654;NON
+19/02/2019;IMPAVIDO 10 mg, gélule;miltéfosine;PAESEL & LOREI GMBH & CO;Nominative;Sans Objet;;Sans Objet;NXXXX00;IMPAVIDO 10MG GELU;9382718;3400893827185;NON
+19/02/2019;IMPAVIDO 50 mg, gélule;miltéfosine;PAESEL & LOREI GMBH & CO;Nominative;Sans Objet;;Sans Objet;NXXXX00;IMPAVIDO 50MG GELU;9299578;3400892995786;NON
+19/02/2019;INDOCIN 25 mg/5 ml, suspension buvable;indométacine;IROKO;Nominative;Sans Objet;;Sans Objet;NXXXX00;INDOCIN 25MG/5ML BUV FL;9321007;3400893210079;NON
+19/02/2019;INDO-PAED 25 mg/5 ml, suspension buvable;indométacine;1 A PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;INDO-PAED 25MG/5ML BUV FL;9385987;3400893859872;NON
+19/02/2019;INOSERP MENA 200mg/flacon, poudre et solvant pour solution injectable;Sérum anti-venin;INOSAN BIOPHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;INOSERP MENA 200MG INJ FL;9445850;3400894458500;oui
+19/02/2019;INOSERP PAN-AFRICA  500 mg/vial, solution injectable;fragments F(ab')2 d'immunoglobulines antivenin;INOSAN BIOPHARMA S.A.;Nominative;Sans Objet;;Sans Objet;NXXXX00;INOSERP PFR 500MG/VIAL INJ FL;9441906;3400894419068;OUI
+19/02/2019;IPATASERTIB 100mg, comprimé pelliculé;ipatasertib;Roche;Nominative;Sans Objet;;Sans Objet;NXXXX00;IPATASERTIB RCH 100MG CPR;9445867;3400894458678;oui
+19/02/2019;IPATASERTIB 200mg, comprimé pelliculé;ipatasertib;Roche;Nominative;Sans Objet;;Sans Objet;NXXXX00;IPATASERTIB RCH 200MG CPR;9445873;3400894458739;oui
+19/02/2019;IRENAT 300 mg/ml, solution buvable en gouttes;perchlorate de sodium;ALLIANCE PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;IRENAT 300MG/ML BUV GTT 40ML;9388419;3400893884195;NON
+19/02/2019;ISTODAX 10 mg, poudre pour solution pour perfusion;romidepsine;CELGENE FRANCE;Nominative;Sans Objet;;Sans Objet;NXXXX00;ISTODAX 10MG PERF FL;9374073;3400893740736;OUI 
+19/02/2019;"IVOMEC PORCIN 10 mg/ml, solution injectable";Ivermectine;MERIAL;Nominative;Sans Objet;;Sans Objet;NXXXX00; IVOMEC PORCIN 1G INJ FL 1;9321065;3400893210659;OUI
+19/02/2019;IVOSIDENIB  250 mg, comprimé;ivosidenib;AGIOS PHARMACEUTICAL INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;IVOSIDENIB AGP 250MG CPR;9431701;3400894317012;NON
+19/02/2019;KEDRION HUMAN PLASMINOGEN 1 mg/ml, collyre en solution;plasminogène humain;KEDRION S.P.A.;Nominative;Sans Objet;;Sans Objet;NXXXX00;KEDRION HUM PLAS 1MG/ML CY FL;9410892;3400894108924;NON
+19/02/2019;KEVEYIS 50 mg, comprimé;dichlorphenamide;TARO PHARMACEUTICAL;Nominative;Sans Objet;;Sans Objet;NXXXX00;KEVEYIS 50MG CPR;9428337;3400894283379;NON
+19/02/2019;KRINTAFEL 150 mg, comprimé;tafenoquine;GLAXOSMITHKLINE;Nominative;Sans Objet;;Sans Objet;NXXXX00;KRINTAFEL 150MG CPR;9444684;3400894446842;NON
+19/02/2019;KRN 23 30 mg, solution injectable;BUROSUMAB;KYOWA KIRIN PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;KRN 23 30MG INJ FL;9438040;3400894380405;NON
+19/02/2019;"KYMRIAH 1,2 x 106 – 6 x 108 cellules dispersion pour perfusion";tisagenlecleucel-T;NOVARTIS PHARMA SAS;Cohorte;25/07/2018;;Traitement de la leucémie aigüe lymphoblastique (LAL) à cellules B chez les patients âgés de moins de 25 ans au moment où l’indication est posée, en rechute ou réfractaire après au moins deux lignes de traitement.;CTISA01;KYMRIAH 1,2MN-600MN CELLU POC;9439938;3400894399384;OUI
+19/02/2019;"KYMRIAH 1,2 x 106 – 6 x 108 cellules dispersion pour perfusion";tisagenlecleucel-T;NOVARTIS PHARMA SAS;Cohorte;25/07/2018;;Traitement du lymphome B à grandes cellules chez les patients adultes en rechute ou réfractaire après au moins deux lignes de traitement.;CTISA02;KYMRIAH 1,2MN-600MN CELLU POC;9439938;3400894399384;OUI
+19/02/2019;"KYMRIAH 1,2 x 106 – 6 x 108 cellules dispersion pour perfusion";tisagenlecleucel-T;NOVARTIS PHARMA SAS;Nominative;Sans Objet;;Sans Objet;NXXXX00;KYMRIAH 1,2MN-600MN CELLU POC;9439938;3400894399384;OUI
+19/02/2019;LAFEPE BENZNIDAZOL 100 mg, comprimé;benznidazole;LABORATOIRE LAFEPE;Nominative;Sans Objet;;Sans Objet;NXXXX00;BENZNIDAZOL LFP 100MG CPR;9355549;3400893555491;NON
+19/02/2019;LAFEPE BENZNIDAZOL 12,5 mg, comprimé dispersible;benznidazole;LABORATOIRE LAFEPE;Nominative;Sans Objet;;Sans Objet;NXXXX00;BENZNIDAZOL LFP 12,5MG DISP;9420206;3400894202066;NON
+19/02/2019;LAMPIT 120 mg, comprimé;nifurtimox;BAYER HEALTHCARE PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;LAMPIT 120MG CPR;9382782;3400893827826;NON
+19/02/2019;L-ARGININE HYDROCHLORHID BAXTER® 21 %, solution injectable;  L-ARGININE HYDROCHLORHID;BAXTER;Nominative;Sans Objet;;Sans Objet;NXXXX00;L-ARGININE HYD.BAX 21% A20ML10;9299822;3400892998220;OUI
+19/02/2019;L-ARGININ-HYDROCHLORID B BRAUN  21%, solution à diluer pour perfusion;  L-ARGININE HYDROCHLORHID;B BRAUN;Nominative;Sans Objet;;Sans Objet;NXXXX00;L-ARGININE HYD.BBM 21% A20ML;9392415;3400893924150;OUI 
+19/02/2019;LEDAGA 160 microgrammes/g gel;chlorméthine;HELSINN BIREX PHARMACEUTICALS;Cohorte;26/01/2017;;Traitement des lymphomes T cutanés de type mycosis fongoïde (LTC-MF), sans association d’un autre médicament topique.;CCHLO01;LEDAGA 160MCG/G GEL TB60G;9422990;3400894229902;NON
+19/02/2019;LEGALON-SIL 350 mg, poudre pour solution injectable;silibinine;LABORATOIRES ROTTAPHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;LEGALON-SIL 350MG PDR INJ FL;9290548;3400892905488;OUI
+28/02/2019;LENIOLISIB 30 mg, comprimé pélliculé;leniolisib;NOVARTIS PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;LENIOLISIB NPH 30MG CPR PEL;9446743;3400894467434;NON
+19/02/2019;LETERMOVIR 240 mg, comprimé;letermovir;MERCK SHARP & DOHME - CHIBRET;Nominative;Sans Objet;21/09/2019;Sans Objet;NXXXX00;LETERMOVIR MSD 240MG CPR;9432103;3400894321033;NON
+19/02/2019;LETERMOVIR 240 mg, solution à diluer pour perfusion;letermovir;MERCK SHARP & DOHME GMBH;Nominative;Sans Objet;21/09/2019;Sans Objet;NXXXX00;LETERMOVIR MSD 240MG PERF FL;9441912;3400894419129;NON
+19/02/2019;LETERMOVIR 480 mg, solution à diluer pour perfusion;letermovir;MERCK SHARP & DOHME - CHIBRET;Nominative;Sans Objet;21/09/2019;Sans Objet;NXXXX00;LETERMOVIR MSD 480MG PERF FL;9435544;3400894355441;NON
+19/02/2019;LEUKINE 250 µg/ml, poudre pour solution injectable;sargramostim;GENZYME CORPORATION;Nominative;Sans Objet;;Sans Objet;NXXXX00;LEUKINE 250MCG/ML INJ FL;9313249;3400893132494;NON
+19/02/2019;LEUKINE 500 µg/ml, solution injectable;sargramostim;GENZYME CORPORATION;Nominative;Sans Objet;;Sans Objet;NXXXX00;LEUKINE 500MCG/ML INJ FL    ;9300123;3400893001233;NON
+19/02/2019;LIORESAL 5mg/5ml, solution buvable;baclofène;NOVARTIS PHARMACEUTICALS UK LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;LIORESAL 5MG/5ML BUV FL;9321496;3400893214961;NON
+19/02/2019;LODOSYN 25 mg, comprimé;carbidopa;ATON PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;LODOSYN 25MG CPR;9321757;3400893217573;NON
+19/02/2019;LORAZEPAM 4 mg/ml, solution injectable;lorazepam;WEST-WARD PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;LORAZEPAM WWP 4MG/ML INJ FL;9395833;3400893958339;NON
+19/02/2019;LORLATINIB 100 mg, comprimé;lorlatinib;PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;LORLATINIB PFZ 100MG CPR;9416908;3400894169086;NON
+19/02/2019;LORLATINIB 25 mg, comprimé;lorlatinib;PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;LORLATINIB PFZ 25MG CPR;9416914;3400894169147;NON
+19/02/2019;LORLATINIB 50 mg, comprimé;lorlatinib;PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;LORLATINIB PFZ 50MG CPR;9428343;3400894283430;NON
+19/02/2019;LOXO-195 20 mg/ml, suspension buvable;LOXO-195 (nom de code, pas de dci);LOXO ONCOLOGY;Nominative;Sans Objet;;Sans Objet;NXXXX00;LOXO-195 20MG/ML SUSP BUV FL;9444738;3400894447382;NON
+19/02/2019;LOXO-292 20 mg, gélule;LOXO-292;LOXO ONCOLOGY, INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;LOXO-292 20MG GELU;9439393;3400894393931;NON
+19/02/2019;LOXO-292 80 mg, gélule;LOXO-292;LOXO ONCOLOGY, INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;LOXO-292 80MG GELU;9439401;3400894394013;NON
+19/02/2019;LUXTURNA 5 x 1012 génomes de vecteur/mL, solution à diluer injectable;Voretigene neparvovec;Novartis;Cohorte;19/11/2018;;Traitement des patients  d’âge ≤ 20 ans, présentant une perte visuelle due à une dystrophie rétinienne héréditaire résultant de mutations bi-alléliques confirmées du gène RPE65 et possédant suffisamment de cellules rétiniennes viables et ayant été diagnostiqués dans l’enfance comme atteints d’amaurose congénitale de Leber.;CVORE01;LUXTURNA INJ FL+FL;9443785;3400894437857;OUI
+19/02/2019;MALACEF 60 mg, poudre et solvant pour solution injectable;artésunate;ACE PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;MALACEF 60MG INJ FL+FL;9382598;3400893825983;OUI
+19/02/2019;MARCOUMAR 3 mg, comprimé sécable;phenprocoumone;HOFFMANN-LA-ROCHE SA;Nominative;Sans Objet;;Sans Objet;NXXXX00;MARCOUMAR 3MG CPR SECAB;9299288;3400892992884;NON
+19/02/2019;MARIBAVIR 200 mg, comprimé;maribavir;SHIRE FRANCE;Nominative;Sans Objet;;Sans Objet;NXXXX00;MARIBAVIR SHI 200MG CPR;9434154;3400894341543;NON
+19/02/2019;MARINOL 2,5 mg, capsule molle;dronabinol;ABBVIE INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;MARINOL 2,5MG CAPS;9243939;3400892439396;NON
+19/02/2019;MARQIBO KIT, solution pour perfusion;vincristine liposomale;TALON THERAPEUTICS;Nominative;Sans Objet;;Sans Objet;NXXXX00;MARQIBO KIT SOL PERF FL;9423446;3400894234463;OUI
+19/02/2019;MD1003 100 mg, gélule;biotine;"Titulaire: Medday pharmaceuticalsSA-Exploitant: Pharma Blue";Nominative;Sans Objet;;Sans Objet;NXXXX00;MD1003 100MG GELU;9411035;3400894110354;NON
+19/02/2019;MEPHENON 10mg/1ml, solution injectable;méthadone (chlorhydrate de);LABORATOIRES STEROP;Nominative;Sans Objet;;Sans Objet;NXXXX00;MEPHENON 10MG/1ML INJ FL;9436437;3400894364375;OUI
+19/02/2019;MESTINON  60 mg/5 ml, sirop;pyridostigmine (bromure);VALEANT PHARMACEUTICALS NORTH AMERICA;Nominative;Sans Objet;;Sans Objet;NXXXX00;MESTINON 60MG/5ML SIR FL;9384551;3400893845516;NON
+19/02/2019;METHOTREXATE ROSEMONT 2MG/ML, solution buvable;méthotrexate;ROSEMONT PHARMACEUTICALS LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;METHOTREX.RMT 2MG/ML BUV FL;9428426;3400894284260;NON
+19/02/2019;METRELEPTINE 11,3 mg, poudre pour solution injectable;métréleptine;AEGERION PHARMACEUTICALS, INC.;Nominative;Sans Objet;;Sans Objet;NXXXX00;METRELEPTINE 11,3MG INJ FL;9422286;3400894222866;NON
+19/02/2019;MIDOSTAURINE 25 mg/ml, suspension buvable;midostaurine;NOVARTIS PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;MIDOSTAURINE NPH 25MG/ML FL;9423452;3400894234524;NON
+19/02/2019;MIN-102 15 mg/mL, suspension orale;(5-[[4-[2-[5-(1-hydroxyethyl)pyridin-2-yl]ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione hydrochloride;MINORYX THERAPEUTICS S.L.;Nominative;Sans Objet;;Sans Objet;NXXXX00;MIN-102 15MG/ML SUSP BUV FL;9444678;3400894446781;NON
+19/02/2019;MNESIS 45 mg, comprimé;idébénone;TAKEDA ITALIA FARMACEUTICAL;Nominative;Sans Objet;;Sans Objet;NXXXX00;MNESIS 45MG CPR;9278375;3400892783758;NON
+19/02/2019;MODALINA 1 mg, comprimé;trifluoperazine;LABORATORIO FARMACEUTICO SIT SPECIALITÀ IGIENICO TERAPEUTICHE;Nominative;Sans Objet;;Sans Objet;NXXXX00;MODALINA 1MG CPR;9436443;3400894364436;NON
+19/02/2019;MOLGRAMOSTIM 300 µg, solution pour inhalation par nébuliseur;molgramostim;SAVARA APS;Nominative;Sans Objet;;Sans Objet;NXXXX00;MOLGRAMOSTIM SPS 300µG NEB;9433491;3400894334910;NON
+19/02/2019;MOLIBRESIB  20 mg, comprimé pelliculé;molibresib;GSK;Nominative;Sans Objet;;Sans Objet;NXXXX00;MOLIBRESIB GSK 20MG CPR;9445896;3400894458968;oui
+19/02/2019;MYALEPTA 11,3 mg, poudre pour solution injectable;métréleptine;AEGERION PHARMACEUTICALS, INC.;Cohorte;01/10/2018;;En complément d’un régime alimentaire comme traitement substitutif pour traiter les complications associées à un déficit en leptine chez les patients atteints de lipodystrophie généralisée congénitale (syndrome de Berardinelli Seip ) ou acquise (syndrome de Lawrence ) confirmée chez les adultes ou enfants âgés de 2 ans et plus;CMETR01;MYALEPTA 11,3MG INJ FL2ML;9439915;3400894399155;NON
+19/02/2019;MYALEPTA 11,3 mg, poudre pour solution injectable;métréleptine;AEGERION PHARMACEUTICALS, INC.;Cohorte;01/10/2018;;En complément d’un régime alimentaire comme traitement substitutif pour traiter les complications associées à un déficit en leptine chez les patients atteints de lipodystrophie partielle familiale ou acquise (syndrome de Barraquer Simons ) confirmée chez les adultes ou enfants âgés de 12 ans et plus et chez lesquels les traitements standard n’ont pas permis d’obtenir un contrôle métabolique suffisant;CMETR02;MYALEPTA 11,3MG INJ FL2ML;9439915;3400894399155;NON
+19/02/2019;MYOCHOLINE 10 mg, comprimé;béthanéchol (chlorure);GLENWOOD GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;MYOCHOLINE 10MG CPR;9300399;3400893003992;NON
+19/02/2019;MYOCHOLINE 25 mg, comprimé sécable;béthanéchol (chlorure);GLENWOOD GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;MYOCHOLINE 25MG CPR;9243891;3400892438917;NON
+19/02/2019;MYOCRISIN 100 mg/ml, solution injectable;sodium aurothiomalate;SANOFI;Nominative;Sans Objet;;Sans Objet;NXXXX00;MYOCRISIN 100MG/ML INJ AMP;9384344;3400893843444;NON
+19/02/2019;NARDELZINE 15 mg, comprimé;phénelzine (sulfate);PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;NARDELZINE 15MG CPR;9321898;3400893218983;NON
+19/02/2019;NARDIL 15 mg, comprimé;phénelzine;PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;NARDIL 15MG CPR              ;9300146;3400893001462;NON
+19/02/2019;NATACYN 5%, collyre en suspension;natamycine;ALCON;Nominative;Sans Objet;;Sans Objet;NXXXX00;NATACYN 5% COLLY FL15ML;9289812;3400892898124;NON
+19/02/2019;NATRIUMTHIOSULFAT 10 %, solution injectable;thiosulfate de sodium;LABORATOIRE INRESA;Cohorte;15/05/2017;;Traitement de la calciphylaxie chez l’adulte.;CTHIO01;NATRIUMTHIOSULFAT 10% INJ FL;9300212;3400893002124;OUI
+19/02/2019;NATRIUMTHIOSULFAT 10 %, solution injectable;thiosulfate de sodium;LABORATOIRE INRESA;Nominative;Sans Objet;;Sans Objet;NXXXX00;NATRIUMTHIOSULFAT 10% INJ FL;9300212;3400893002124;OUI
+19/02/2019;NATRIUMTHIOSULFAT 25 %, solution injectable;thiosulfate de sodium;LABORATOIRE INRESA;Cohorte;15/05/2017;;Traitement de la calciphylaxie chez l’adulte.;CTHIO01;NATRIUMTHIOSULFAT 25% INJ FL;9313344;3400893133446;OUI
+19/02/2019;NATRIUMTHIOSULFAT 25 %, solution injectable;thiosulfate de sodium;LABORATOIRE INRESA;Nominative;Sans Objet;;Sans Objet;NXXXX00;NATRIUMTHIOSULFAT 25% INJ FL;9313344;3400893133446;OUI
+19/02/2019;NEOSTIGMINE BROMIDE 15 mg, comprimé;néostigmine (bromure);ALLIANCE PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;NEOSTIGMINE BROMID CBG CPR;9293535;3400892935355;NON
+19/02/2019;NEOTON 1 g, poudre et solvant pour solution injectable;créatine phosphate;SEARLE FARMACEUTICI;Nominative;Sans Objet;;Sans Objet;NXXXX00;NEOTON 1G PDR INJ FL60ML;9246062;3400892460628;NON
+19/02/2019;NERLYNX 40 mg, gélule;nératinib;PUMA BIOTECHNOLOGY, LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;NERLYNX 40MG GELU;9443101;3400894431015;NON
+19/02/2019;NERVIFENE 100 mg/ml, solution buvable;chloral (hydrate);INTERDELTA SA;Nominative;Sans Objet;;Sans Objet;NXXXX00;NERVIFENE 100MG/ML BUV FL125ML;9296255;3400892962559;NON
+19/02/2019;NEURONTIN 250 mg/ 5ml, solution buvable;gabapentine;PFIZER INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;NEURONTIN 250MG/5ML FL470ML;9381050;3400893810507;NON
+19/02/2019;NIFEDIPINE RATIOPHARM 20 mg/ml, solution buvable en gouttes;nifédipine;RATIOPHARM GMHB;Nominative;Sans Objet;;Sans Objet;NXXXX00;NIFEDIPINE RTP 20MG/ML GTT FL;9358789;3400893587898;NON
+19/02/2019;NIMOTOP 30 mg/ 0,75 ml, solution buvable en gouttes;nimodipine;BAYER SPA;Nominative;Sans Objet;;Sans Objet;NXXXX00;NIMOTOP 30MG/0,75ML GTT FL;9420212;3400894202127;NON
+19/02/2019;NITROPRUSSIAT FIDES 50 mg/5mL, solution injectable;nitroprussiate de sodium;KOMTUR PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;NITROPRUSSIAT FIDES50MG/5ML FL;9431724;3400894317241;OUI
+19/02/2019;NOLOTIL 2 g/5 ml, solution injectable;métamizole magnésium;BOEHRINGER INGELHEIM;Nominative;Sans Objet;;Sans Objet;NXXXX00;NOLOTIL 2G/5ML INJ AMP;9294115;3400892941158;OUI
+19/02/2019;NORMIX 2g/100 ml, granulés pour solution buvable;rifaximine;ALFA WASSERMANN;Nominative;Sans Objet;;Sans Objet;NXXXX00;NORMIX 2G/100ML GLE BUV FL;9400014;3400894000143;NON
+19/02/2019;NOVALGINE 500 mg/ml, solution buvable en gouttes;métamizole sodique;SANOFI-AVENTIS BELGIUM;Nominative;Sans Objet;;Sans Objet;NXXXX00;NOVALGINE 500MG/ML BUV GTT FL;9443064;3400894430643;NON
+19/02/2019;NUPLAZID 17 mg, comprimé;pimavanserin;ACADIA PHARMACEUTICALS INC.;Nominative;Sans Objet;;Sans Objet;NXXXX00;NUPLAZID 17MG CPR;9443118;3400894431183;NON
+19/02/2019;OLESOXIME 100 mg/ml, poudre pour suspension buvable;olesoxime;ROCHE;Nominative;Sans Objet;;Sans Objet;NXXXX00;OLESOXIME RCH 100MG/ML BUV FL;9423475;3400894234753;NON
+19/02/2019;OMACETAXINE MEPESUCCINATE 3,5 mg, poudre pour solution injectable;omacétaxine mépésuccinate (homoharringtonine);STRAGEN;Nominative;Sans Objet;;Sans Objet;NXXXX00;OMACETAXINE ATI 3,5MG INJ FL;9389212;3400893892121;OUI
+19/02/2019;OSPOLOT 200 mg, comprimé sécable;sultiame;LABORATOIRES INRESA;Nominative;Sans Objet;;Sans Objet;NXXXX00;OSPOLOT 200MG CPR;9293558;3400892935584;NON
+19/02/2019;OSPOLOT 200 mg, comprimé sécable;sultiame;LABORATOIRES INRESA;Cohorte;01/03/2015;;Traitement du Syndrome de Pointes-Ondes Continues du sommeil (POCS) après échec des thérapeutiques disponibles et appropriées;CSULT01;OSPOLOT 200MG CPR;9293558;3400892935584;NON
+19/02/2019;OSPOLOT 50 mg, comprimé;sultiame;LABORATOIRES INRESA;Nominative;Sans Objet;;Sans Objet;NXXXX00;OSPOLOT 50MG CPR;9293564;3400892935645;NON
+19/02/2019;OSPOLOT 50 mg, comprimé;sultiame;LABORATOIRES INRESA;Cohorte;01/03/2015;;Traitement du Syndrome de Pointes-Ondes Continues du sommeil (POCS) après échec des thérapeutiques disponibles et appropriées;CSULT01;OSPOLOT 50MG CPR;9293564;3400892935645;NON
+19/02/2019;OXANDROLONE 10 mg, comprimés;oxandrolone;AMERICAN HEALTH PACKAGING;Nominative;Sans Objet;;Sans Objet;NXXXX00;OXANDROLONE AHP 10MG CPR;9428432;3400894284321;NON
+19/02/2019;OXANDROLONE 2,5 mg, comprimé;oxandrolone;AMERICAN HEALTH PACKAGING;Nominative;Sans Objet;;Sans Objet;NXXXX00;OXANDROLONE AHP 2,5MG CPR;9428449;3400894284499;NON
+19/02/2019;"PAS-FATOL 11,82 g, poudre pour solution pour perfusion";Acide aminosalicylique;RIEMSER PHARMA GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;PAS-FATOL 11,82G PERF FL;9407737;3400894077374;OUI
+19/02/2019;PAZOPANIB 50 mg/ml, solution buvable;pazopanib;NOVARTIS PHARMA SERVICES AG;Nominative;Sans Objet;;Sans Objet;NXXXX00;PAZOPANIB NPH 50MG/ML BUV FL;9431730;3400894317302;NON
+19/02/2019;PDP-ISONIAZID 10 mg/ml, solution buvable;isoniazide;PENDOPHARM;Nominative;Sans Objet;;Sans Objet;NXXXX00;PDP-ISONIAZID 10MG/ML BUV FL;9410917;3400894109174;NON
+19/02/2019;PETINIMID 250 mg, capsule molle;éthosuximide;INRESA;cohorte;01/05/2017;;Traitement des absences, en monothérapie ou en association, chez l’adulte et l’enfant de plus de 6 ans, en cas de mauvaise observance du traitement avec la solution buvable actuellement disponible;CETHO01;PETINIMID 250MG CAPS MOL;9425511;3400894255116;NON
+19/02/2019;PETINIMID 250 mg, gélule;éthosuximide;ORION PHARMA AG;Nominative;Sans Objet;;Sans Objet;NXXXX00;PETINIMID 250MG GELU;9355584;3400893555842;NON
+19/02/2019;PHOSPHATE SANDOZ 500 mg, comprimé effervescent;phosphate disodique anhydre;HK PHARMA LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;PHOSPHATE SDZ 500MG CPR EFFV;9420258;3400894202585;NON
+19/02/2019;PICIBANIL 1KE, poudre pour solution injectable;streptocoques pyogènes inactivés;CHUGAI PHARMA FRANCE;Nominative;Sans Objet;;Sans Objet;NXXXX00;PICIBANIL 1KE PDR INJ FL;9358849;3400893588499;OUI
+19/02/2019;PM01183 4 mg, poudre pour solution pour perfusion;lurbinectedin;PHARMA MAR S.A;Nominative;Sans Objet;;Sans Objet;NXXXX00;PM01183 4MG PERF FL;9439660;3400894396604;OUI
+19/02/2019;PMS-OXYBUTYNIN 1 mg/ml, suspension buvable;chlorhydrate d'oxybutynine;PHARMASCIENCE INC.;Nominative;Sans Objet;;Sans Objet;NXXXX00;PMS-OXYBUTYNIN 1MG/ML SIR FL;9397513;3400893975138;NON
+19/02/2019;POTABA 3 g, poudre pour suspension buvable;potassium (paraaminobenzoate);GLENWOOD;Nominative;Sans Objet;;Sans Objet;NXXXX00;POTABA 3G PDR BUV SACH;9245944;3400892459448;NON
+19/02/2019;POTELIGEO 4 mg/ml, solution pour perfusion;mogamulizumab;KYOWA KIRIN PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;POTELIGEO 4MG/ML PERF FL5ML;9442834;3400894428343;OUI
+28/02/2019;POTELIGEO 4 mg/ml, solution pour perfusion;mogamulizumab;KYOWA KIRIN PHARMA S.A.S.;Cohorte;08/03/2019;;Mycosis fongoïde stades III-IV non transformé y compris le syndrome de Sézary chez l’adulte après échec d’au moins un traitement systémique antérieur;CMOGA01;POTELIGEO 4MG/ML PERF FL5ML;9442834;3400894428343;OUI
+28/02/2019;POTELIGEO 4 mg/ml, solution pour perfusion;mogamulizumab;KYOWA KIRIN PHARMA S.A.S.;Cohorte;08/03/2019;;Mycosis fongoïde stades IB-II non transformé réfractaire chez l’adulte après échec d’au moins 2 traitements systémiques antérieurs;CMOGA02;POTELIGEO 4MG/ML PERF FL5ML;9442834;3400894428343;OUI
+19/02/2019;POZIOTINIB 2 mg, comprimé;poziotinib;SPECTRUM PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;POZIOTINIB SPM 2MG CPR;9444655;3400894446552;NON
+19/02/2019;POZIOTINIB 8 mg, comprimé;poziotinib;SPECTRUM PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;POZIOTINIB SPM 8MG CPR;9444661;3400894446613;NON
+19/02/2019;PREDFORTE 1 %, collyre en suspension;prednisolone (acétate);ALLERGAN PHARMACEUTICALS IRELAND;Nominative;Sans Objet;;Sans Objet;NXXXX00;PREDFORTE 1% COLLY SUSP FL;9323868;3400893238684;NON
+19/02/2019;PREFOLIC 15 mg, comprimé gastro-résistant;5 méthyl-tétrahydrofolate;ZAMBON ITALIA SRL;Nominative;Sans Objet;;Sans Objet;NXXXX00;PREFOLIC 15MG CPR;9294629;3400892946290;NON
+19/02/2019;PRIDOPIDINE 45 mg, comprimé;pridopidine;NEUROSEARCH;Nominative;Sans Objet;;Sans Objet;NXXXX00;PRIDOPIDINE NSH 45MG CPR;9410923;3400894109235;NON
+19/02/2019;PRIMAQUINE 15 mg (base), comprimé;primaquine (diphosphate);SANOFI-AVENTIS;Nominative;Sans Objet;;Sans Objet;NXXXX00;PRIMAQUINE 15MG CPR;9345284;3400893452844;NON
+19/02/2019;PRIMAQUINE 7,5 mg (base), comprimé;primaquine (diphosphate);DURBIN PLC;Nominative;Sans Objet;;Sans Objet;NXXXX00;PRIMAQUINE 7,5MG CPR;9243968;3400892439686;NON
+19/02/2019;PROGLYCEM 50 mg/ml, suspension buvable;diazoxide;TEVA GLOBAL;Nominative;Sans Objet;;Sans Objet;NXXXX00;PROGLYCEM 50MG/ML BUV FL30ML;9295528;3400892955285;NON
+19/02/2019;PROHIPPUR 750 mg/g, granules;benzoate de sodium;LUCANE PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;PROHIPPUR 750MG/G GRLS FL250G;9423854;3400894238546;NON
+19/02/2019;PROHIPPUR 750 mg/g, granules;benzoate de sodium;LUCANE PHARMA;Cohorte;01/02/2017;;Traitement adjuvant dans la prise en charge au long cours de l’hyperglycinémie sans cétose;CBENZ01;PROHIPPUR 750MG/G GRLS FL250G;9423854;3400894238546;NON
+19/02/2019;PROHIPPUR 750 mg/g, granules;benzoate de sodium;LUCANE PHARMA;Cohorte;01/02/2017;;"Traitement adjuvant dans la prise en charge au long cours des désordres du cycle de l’urée, incluant un déficit en carbamylphosphate synthétase, ornithine transcarbamylase, argininosuccinate synthétase, arginosuccinate lyase, arginase, ou n-acetylglutamate synthase et intolérance aux protéines lysinuriques ou syndrome d’hyperornithinémie-hyperammoniémie-homocitrullinurie, en cas d’échec, d’insuffisance thérapeutique, d’intolérance ou de contre-indication aux autres traitements épurateurs d’azote.";CBENZ02;PROHIPPUR 750MG/G GRLS FL250G;9423854;3400894238546;NON
+19/02/2019;PROPRANOLOL ROSEMONT 10 mg/5 ml, solution buvable;propranolol;ROSEMONT PHARMACEUTICALS LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;PROPRANOLOL RMT 10MG/5ML FL;9419769;3400894197690;NON
+19/02/2019;PROPRANOLOL ROSEMONT 5 mg/5 ml, solution buvable;propranolol;ROSEMONT PHARMACEUTICALS LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;PROPRANOLOL RMT 5MG/5ML FL;9419781;3400894197812;NON
+19/02/2019;PROPRANOLOL ROSEMONT 50 mg/5 ml, solution buvable;propranolol;ROSEMONT PHARMACEUTICALS LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;PROPRANOLOL RMT 50MG/5ML FL;9419775;3400894197751;NON
+19/02/2019;PROSTIGMIN 15 mg, comprimé;neostigmine bromide;VALEANT PHARMACEUTICALS NORTH AMERICA;Nominative;Sans Objet;;Sans Objet;NXXXX00;PROSTIGMIN 15MG CPR;9386366;3400893863664;NON
+19/02/2019;PSMA-11 10 µg, poudre pour solution injectable;DKFZ-PSMA-11 (ou PSMAHBED-CC);IASON LABORMEDEZIN GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;PSMA-11 PDR INJ FL;9420270;3400894202707;OUI
+19/02/2019;PSMA-617  40 µg/GBq, poudre pour solution injectable;PMSA-619;ENDOCYTE, INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;PSMA-617 40µG/GBQ PDR INJ FL;9439424;3400894394242;OUI
+19/02/2019;QIZENDAY 100 mg, gélule;biotine;"Titulaire: Medday pharmaceuticalsSA-Exploitant: Pharma Blue";Nominative;Sans Objet;;Sans Objet;NXXXX00;QIZENDAY 100MG GELU;9418741;3400894187417;NON
+19/02/2019;QIZENDAY 100 mg, gélule;biotine;"Titulaire: Medday pharmaceuticalsSA-Exploitant: Pharma Blue";Cohorte;18/07/2016;;Traitement de la sclérose en plaques : formes progressives primaires ou secondaires (sans poussée depuis au moins 1 an);CBIOT01;QIZENDAY 100MG GELU;9418741;3400894187417;NON
+19/02/2019;RADICUT 30 mg/100 ml, solution injectable;edavarone;MT PHARMA AMERICA;Nominative;Sans Objet;;Sans Objet;NXXXX00;RADICUT 30MG/100ML POC100ML;9433344;3400894333449;OUI
+19/02/2019;RADICUT 30 mg/100 ml, solution injectable;edavarone;MT PHARMA AMERICA;Nominative;Sans Objet;;Sans Objet;NXXXX00;RADICUT 30MG/100ML AMP20ML;9428828;3400894288282;OUI
+19/02/2019;REGN2810 50 mg/ml, solution pour perfusion;cemiplimab;SANOFI AVENTIS;Nominative;Sans Objet;;Sans Objet;NXXXX00;REGN2810 50MG/ML PERF FL;9439789;3400894397892;OUI
+19/02/2019;RESTASIS 0,05%, collyre en solution;ciclosporine;ALLERGAN;Nominative;Sans Objet;;Sans Objet;NXXXX00;RESTASIS 0,05% COLLY DOS;9288528;3400892885285;NON
+19/02/2019;REVCOVI, solution injectable;elapegademase-lvlr recombinante;LEADIANT Biosciences;Nominative;Sans Objet;;Sans Objet;NXXXX00;REVCOVI 2,4MG/1,5ML INJ FL;9444336;3400894443360;OUI
+19/02/2019;RILONACEPT REGENERON 80 mg/ml, poudre et solvant pour solution injectable;rilonacept;REGENERON PHARMACEUTICALS INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;RILONACEPT RGR 80MG/ML FL+FL;9439683;3400894396833;NON
+19/02/2019;RILPIVIRINE 600 mg/2 ml, suspension injectable;rilpivirine;JANSSEN RESEARCH AND DEVELOPMENT;Nominative;Sans Objet;;Sans Objet;NXXXX00;RILPIVIRINE JAN 600MG/2ML FL;9423481;3400894234814;NON
+19/02/2019;RIMSO-50 50% p/p, solution pour administration intravésicale;diméthylsulfoxyde;BIONICHE PHARMA GROUP LIMITED;Nominative;Sans Objet;;Sans Objet;NXXXX00;RIMSO 50 SOL INJ FL50ML;9246211;3400892462110;NON
+19/02/2019;RUCAPARIB 120 mg, comprimé;rucaparib;CLOVIS ONCOLOGY, INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;RUCAPARIB CSO 120MG CPR;9439714;3400894397144;NON
+19/02/2019;RUCAPARIB 300 mg, comprimé;rucaparib;CLOVIS ONCOLOGY, INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;RUCAPARIB CSO 300MG CPR;9444721;3400894447214;NON
+19/02/2019;SALBUMOL 2 mg, comprimé;salbutamol;GLAXOSMITHKLINE FRANCE;Nominative;Sans Objet;;Sans Objet;NXXXX00;SALBUMOL 2MG CPR;9127096;3400891270969;NON
+19/02/2019;SAMYR 200 mg, comprimé gastro-résistant;ademetionine; ABBOTT ARZNEIMITTEL GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;SAMYR 200MG CPR GASTRO-RES;9431894;3400894318941;NON
+19/02/2019;SAMYR 200 mg/5 mL, solution injectable;ademetionine; ABBOTT ARZNEIMITTEL GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;SAMYR 200MG/5ML SOL INJ FL;9433522;3400894335221;NON
+19/02/2019;SCORPIFAV 1 ml, solution pour perfusion;fragments F(ab’)2 immunoglobulines équines;SANOFI PASTEUR;Nominative;Sans Objet;;Sans Objet;NXXXX00;SCORPIFAV 1ML PERF FL;9410952;3400894109525;OUI
+19/02/2019;SECRELUX 100 U, poudre et solvant pour solution injectable;secrétine;SANOCHEMIA DIAGNOSTICS GERMANY GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;SECRELUX 100U INJ AMP+AMP;9295557;3400892955575;OUI
+19/02/2019;SELINEXOR 20 mg, comprimé;selinexor;KARYOPHARM THERAPEUTICS;Nominative;Sans Objet;;Sans Objet;NXXXX00;SELINEXOR KPT 20MG CPR;9443288;3400894432883;NON
+19/02/2019;SELUMETINIB 25 mg, gélule;selumetinib;ASTRA ZENECA;Nominative;Sans Objet;;Sans Objet;NXXXX00;SELUMETINIB ASZ 25MG GELU;9444715;3400894447153;NON
+19/02/2019;SIRDALUD 4 mg, comprimé sécable;tizanidine;NOVARTIS PHARMA SA;Cohorte;01/05/2014;;Traitement de la spasticité due à des troubles neurologiques d’origine cérébrale ou médullaire en cas d’échec ou d’intolérance aux autres traitements antispastiques;CTIZA01;SIRDALUD 4MG CPR;9300175;3400893001752;NON
+19/02/2019;SOLFA 50 mg, comprimé;amlexanox;TAKEDA FRANCE;Nominative;Sans Objet;;Sans Objet;NXXXX00;SOLFA 50MG CPR;9436621;3400894366218;NON
+19/02/2019;"SONIDEGIB LDE225 50 mg/ml, poudre et solvant pour suspension buvable";Sonidegib;SUN PHARMACEUTICAL INDUSTRIES EUROPE BV;Nominative;Sans Objet;;Sans Objet;NXXXX00;SONIDEGIB SUN 50MG/ML BUV F+F;9445057;3400894450573;OUI
+19/02/2019;STRATTERA 10 mg, gélule;atomoxétine;LILLY FRANCE SA;Nominative;Sans Objet;;Sans Objet;NXXXX00;STRATTERA 10MG GELU;9262434;3400892624341;NON
+19/02/2019;STRATTERA 18 mg, gélule;atomoxétine;LILLY FRANCE SA;Nominative;Sans Objet;;Sans Objet;NXXXX00;STRATTERA 18MG GELU;9262440;3400892624402;NON
+19/02/2019;STRATTERA 25 mg, gélule;atomoxétine;LILLY FRANCE SA;Nominative;Sans Objet;;Sans Objet;NXXXX00;STRATTERA 25MG GELU;9262457;3400892624570;NON
+19/02/2019;STRATTERA 40 mg, gélule;atomoxétine;LILLY FRANCE SA;Nominative;Sans Objet;;Sans Objet;NXXXX00;STRATTERA 40MG GELU;9262463;3400892624631;NON
+19/02/2019;STRATTERA 60 mg, gélule;atomoxétine;LILLY FRANCE SA;Nominative;Sans Objet;;Sans Objet;NXXXX00;STRATTERA 60MG GELU;9262486;3400892624860;NON
+19/02/2019;SUCRAID 8500 UI/ml, solution buvable;sacrosidase;QOL MEDICAL;Nominative;Sans Objet;;Sans Objet;NXXXX00;SUCRAID SOL BUV FL118ML;9239607;3400892396071;NON
+19/02/2019;SULFAMYLON 5%, poudre pour solution pour application cutanée;mafénide (acetate);MYLAN INSTITUTIONAL LLC;Nominative;Sans Objet;;Sans Objet;NXXXX00;SULFAMYLON 5% CUTA FL;9299590;3400892995908;NON
+19/02/2019;SULFAMYLON 85 mg, crème;mafénide (acetate);MYLAN INSTITUTIONAL LLC;Nominative;Sans Objet;;Sans Objet;NXXXX00;SULFAMYLON 85MG CR POT453,6G;9246091;3400892460918;NON
+19/02/2019;"TAKHZYRO 300 mg/2 ml, solution injectable";lanaledumab;LABORATOIRE SHIRE;Cohorte;08/10/2018;;Prévention de routine des crises récurrentes d’angio-œdème héréditaire (AOH) de type I et II chez les patients âgés de 12 ans et plus, lorsque les traitements indiqués dans la prévention de routine sont inefficaces ou indisponibles;CLANA01;TAKHZYRO 300MG/2ML INJ FL5ML;9441042;3400894410423;NON
+19/02/2019;"TAKHZYRO 300 mg/2 ml, solution injectable";Lanaledumab;LABORATOIRE SHIRE;Nominative;Sans Objet;;Sans Objet;NXXXX00;TAKHZYRO 300MG/2ML INJ FL5ML;9441042;3400894410423;NON
+19/02/2019;TALAZOPARIB 0.25 mg, gélule;talazoparib;PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;TALAZOPARIB PFZ 0,25MG GELU;9442917;3400894429173;NON
+19/02/2019;TALAZOPARIB 0.25 mg, gélule;talazoparib;PFIZER;Cohorte;05/11/2018;;Traitement du cancer du sein localement avancé ou métastatique chez les patients adultes porteurs de mutation germinale et/ou somatique du gène de prédisposition au cancer du sein (BRCA), et négatifs pour le récepteur du facteur de croissance épidermique humain 2 (HER2) ayant reçu au moins une chimiothérapie par anthracycline et/ou taxane en situation néoadjuvante, adjuvante ou métastatique, et en l’absence de résistance aux sels de platine. Les patients RH+ ne doivent plus être éligibles à une hormonothérapie.;CTALA01;TALAZOPARIB PFZ 0,25MG GELU;9442917;3400894429173;NON
+19/02/2019;TALAZOPARIB 1 mg, gélule;talazoparib;PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;TALAZOPARIB PFZ 1MG GELU;9438293;3400894382935;NON
+19/02/2019;TALAZOPARIB 1 mg, gélule;talazoparib;PFIZER;Cohorte;05/11/2018;;Traitement du cancer du sein localement avancé ou métastatique chez les patients adultes porteurs de mutation germinale et/ou somatique du gène de prédisposition au cancer du sein (BRCA), et négatifs pour le récepteur du facteur de croissance épidermique humain 2 (HER2) ayant reçu au moins une chimiothérapie par anthracycline et/ou taxane en situation néoadjuvante, adjuvante ou métastatique, et en l’absence de résistance aux sels de platine. Les patients RH+ ne doivent plus être éligibles à une hormonothérapie.;CTALA01;TALAZOPARIB PFZ 1MG GELU;9438293;3400894382935;NON
+19/02/2019;TEGSEDI 284 mg/1,5 mL, solution injectable en seringue préremplie;inotersen;AKCEA THERAPEUTICS France;Cohorte;21/06/2018;11/02/2019;"Traitement des polyneuropathies de stade I, après échec des autres traitements disponibles, chez les patients adultes atteints d’amylose à transthyrétine héréditaire (ATTRh).";CINOT01;TEGSEDI 284MG INJ SRG1,5ML;9439370;3400894393702;Non
+19/02/2019;TEGSEDI 284 mg/1,5 mL, solution injectable en seringue préremplie;inotersen;AKCEA THERAPEUTICS France;Cohorte;21/06/2018;11/02/2019;"Traitement des polyneuropathies de stade II, chez les patients adultes atteints d’amylose à transthyrétine héréditaire (ATTRh).";CINOT02;TEGSEDI 284MG INJ SRG1,5ML;9439370;3400894393702;Non
+19/02/2019;TIPIFARNIB 300 mg, comprimé;tipifarnib;KURA ONCOLOGY, INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;TIPIFARNIB KAO 300MG CPR;9431902;3400894319023;NON
+19/02/2019;TRAMETINIB 5mg, poudre pour solution buvable;tramétinib;NOVARTIS PHARMA S.A.S.;Nominative;Sans Objet;;Sans Objet;NXXXX00;TRAMETINIB NPH 5MG BUV FL;9443294;3400894432944;NON
+19/02/2019;TRANYLCYPROMINE 10 mg, comprimé;tranylcypromine;GOLDSHIELD PHARMACEUTICALS LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;TRANYLCYPROMINE GDP 10MG CPR;9392639;3400893926390;NON
+19/02/2019;TRAZOLAN 100 mg, comprimé pelliculé;trazodone (chlorhydrate);CONTINENTAL PHARMA INC.;Nominative;Sans Objet;;Sans Objet;NXXXX00;TRAZOLAN 100MG CPR;9300471;3400893004715;NON
+19/02/2019;TRECATOR 250 mg, comprimé;ethionamide;WYETH PHARMACEUTICALS INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;TRECATOR 250MG CPR;9094468;3400890944687;NON
+19/02/2019;TRIENTINE 300 mg, gélule;trientine (dichlorhydrate);EUSA PHARMA FRANCE SAS;Nominative;Sans Objet;;Sans Objet;NXXXX00;TRIENTINE 300MG GELU;9295445;3400892954455;NON
+19/02/2019;TRITTICO 50 mg, orale;trazodone (hydrochloride);VIFOR;Nominative;Sans Objet;;Sans Objet;NXXXX00;TRITTICO 50MG PDR ORAL FL;9423498;3400894234982;NON
+19/02/2019;TRITTICO RETARD 150 mg, comprimé;trazodone (hydrochloride);CSC PHARMACEUTICALS HANDELS GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;TRITTICO RETARD 150MG CPR;9355590;3400893555903;NON
+19/02/2019;TROGARZO 200 mg/1,33 ml, solution injectable;ibalizumab;THERA TECHNOLOGIES;Nominative;Sans Objet;;Sans Objet;NXXXX00;TROGARZO 200MG/1,33ML INJ FL;9443041;3400894430414;NON
+19/02/2019;UBICOR 50 mg/10 ml, poudre et solvant pour suspension buvabie;ubidécarénone;MAGIS FARMACEUTICI SPA;Nominative;Sans Objet;;Sans Objet;NXXXX00;UBICOR 50MG/10ML BUV FL+FL;9384060;3400893840603;NON
+19/02/2019;UBITEN 10 mg, comprimé;ubidécarénone;ITALFARMACO SPA;Nominative;Sans Objet;;Sans Objet;NXXXX00;UBITEN 10MG CPR;9246240;3400892462400;NON
+19/02/2019;UBITEN 50 mg, gélule;ubidécarénone;ITALFARMACO SPA;Nominative;Sans Objet;;Sans Objet;NXXXX00;UBITEN 50MG GELU;9382523;3400893825235;NON
+19/02/2019;UBITEN 50 mg/10 ml, solution buvable;ubidécarénone;ITALFARMACO SPA;Nominative;Sans Objet;;Sans Objet;NXXXX00;UBITEN 50MG/10ML BUV FL;9382546;3400893825464;NON
+19/02/2019;UROCIT-K 10 meq (1080 mg), comprimé;potassium (citrate);MISSION PHARMACAL;Nominative;Sans Objet;;Sans Objet;NXXXX00;UROCIT-K 10MEQ (1080MG) CPR;9371040;3400893710401;NON
+19/02/2019;UROCIT-K 5 meq (540 mg), comprimé;potassium (citrate de);MISSION PHARMACAL;Nominative;Sans Objet;;Sans Objet;NXXXX00;UROCIT-K 5MEQ (540MG) CPR;9371057;3400893710579;NON
+19/02/2019;"URSOFALK 250 mg/ 5ml, suspension buvable";ursodésoxycholique (acide);INRESA;Nominative;Sans Objet;;Sans Objet;NXXXX00;URSOFALK 50MG/ML BUV FL;9299319;3400892993195;NON
+19/02/2019;"URSOFALK 250 mg/ 5ml, suspension buvable";ursodésoxycholique (acide);INRESA;Cohorte;15/02/2018;;Traitement des maladies hépato-biliaires associées à la mucoviscidose chez les enfants âgés de 1 mois à 6 ans ou chez les patients qui ne peuvent avaler les formes solides d’acide ursodésoxycholique;CURSO01;URSOFALK 50MG/ML BUV FL;9299319;3400892993195;NON
+19/02/2019;UX007, solution buvable;triheptanoin;ULTRAGENYX PHARMACEUTICAL INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;UX007 SOL BUV FL;9410998;3400894109983;NON
+19/02/2019;"VACCIN DT ADSORBE, suspension injectable";Anatoxine diphtérique, anatoxine tétanique;SANOFI PASTEUR;Nominative;Sans Objet;;Sans Objet;NXXXX00;DT ADSORBE VACCIN INJ FL;9445844;3400894458449;non
+19/02/2019;VALCHLOR, gel pour application cutanée;chlorméthine ou méchloréthamine;ACTELION PHARMACEUTICALS FRANCE;Nominative;Sans Objet;;Sans Objet;NXXXX00;VALCHLOR GEL CUTA TB60G;9404101;3400894041016;NON
+19/02/2019;VANFLYTA 20 mg, comprimé;quizartinib;DAIICHI SANKYO FRANCE SAS;Nominative;Sans Objet;;Sans Objet;NXXXX00;VANFLYTA 30MG CPR;9443124;3400894431244;NON
+19/02/2019;VANFLYTA 30 mg, comprimé;quizartinib;DAIICHI SANKYO FRANCE SAS;Nominative;Sans Objet;;Sans Objet;NXXXX00;VANFLYTA 20MG CPR;9445063;3400894450634;NON
+19/02/2019;VARITECT CP 25 UI/ml, solution injectable;immunoglobuline humaine VZV;BIOTEST PHARMA GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;VARITECT CP 25UI/ML INJ FL20ML;9299609;3400892996097;OUI
+19/02/2019;VARITECT CP 25 UI/ml, solution injectable;immunoglobuline humaine VZV;BIOTEST PHARMA GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;VARITECT CP 25UI/ML INJ FL50ML;9355667;3400893556672;OUI
+19/02/2019;VARITECT CP 25 UI/ml, solution injectable;immunoglobuline humaine VZV;BIOTEST PHARMA GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;VARITECT CP 25UI/ML INJ FL5ML;9355650;3400893556504;OUI
+19/02/2019;VAXIGRIP HS, suspension injectable;Vaccin grippal (inactivé, à virion fragmenté);SANOFI PASTEUR;Nominative;Sans Objet;;Sans Objet;NXXXX00;VAXIGRIP HS INJ SRG;9423506;3400894235064;NON
+19/02/2019;VAXIGRIP TETRA HS, suspension injectable;vaccin grippal quadrivalent (inactivé, à virion fragmenté);SANOFI PASTEUR;Nominative;Sans Objet;;Sans Objet;NXXXX00;VAXIGRIPTETRA HS INJ SRG;9439720;3400894397205;NON
+19/02/2019;VENTOLIN 2 mg/5 ml, sirop;salbutamol;GLAXOSMITHKLINE;Nominative;Sans Objet;;Sans Objet;NXXXX00;VENTOLIN 2MG/5ML SIR FL150ML;9422984;3400894229841;NON
+19/02/2019;VERMOX 100 mg, comprimé;mébendazole;JANSSEN-CILAG;Nominative;Sans Objet;;Sans Objet;NXXXX00;VERMOX 100MG CPR;9416883;3400894168836;NON
+19/02/2019;VERMOX 500 mg, comprimé;mébendazole;JANSSEN-CILAG;Nominative;Sans Objet;;Sans Objet;NXXXX00;VERMOX 500MG CPR;9299437;3400892994376;NON
+19/02/2019;VIRAZOLE 100 mg/ml, solution à diluer pour perfusion;ribavirine;MEDA PHARMA GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;VIRAZOLE 100MG/ML PERF FL12ML;9172470;3400891724707;OUI
+19/02/2019;VIRAZOLE 6g, poudre pour solution d'inhalation;ribavirine;MEDA PHARMA GMBH;Nominative;Sans Objet;;Sans Objet;NXXXX00;VIRAZOLE INHAL AERO 100ML 3;9172487;3400891724875;OUI
+19/02/2019;VISTOGARD 10g, granulés;uridine triacetate;WELLSTAT THERAPEUTICS;Nominative;Sans Objet;;Sans Objet;NXXXX00;VISTOGARD GRLS;9428478;3400894284789;OUI
+19/02/2019;VITAMINE E 100 mg/ml, suspension buvable;alpha-tocophérol (acétate);EUSA PHARMA;Nominative;Sans Objet;;Sans Objet;NXXXX00;VIT E CBG 100MG/ML BUV FL100ML;9293570;3400892935706;NON
+19/02/2019;VONVENDI 1300 UI, poudre et solvant pour solution injectable;Vonicog alfa;LABORATOIRE SHIRE;Cohorte;24/08/2018;07/01/2019;Chez les adultes (âgés de 18 ans et plus) atteints de la maladie de von Willebrand (MvW), lorsque le traitement par la desmopressine (DDAVP) seule est inefficace ou contre-indiqué pour le traitement des hémorragies.;CVONI01;VONVENDI 1300UI INJ F+F10ML +D;9440893;3400894408932;NON
+19/02/2019;VONVENDI 650 UI, poudre et solvant pour solution injectable;Vonicog alfa;LABORATOIRE SHIRE;Cohorte;24/08/2018;07/01/2019;Chez les adultes (âgés de 18 ans et plus) atteints de la maladie de von Willebrand (MvW), lorsque le traitement par la desmopressine (DDAVP) seule est inefficace ou contre-indiqué pour le traitement des hémorragies.;CVONI01;VONVENDI 650UI INJ F+F5ML +D;9440901;3400894409014;NON
+19/02/2019;VORAXAZE 1000 UI, poudre pour solution pour perfusion;carboxypeptidase  G2;PROTHERICS PLC;Nominative;Sans Objet;;Sans Objet;NXXXX00;VORAXAZE 1000UI PERF FL;9299213;3400892992136;OUI 
+19/02/2019;VOSAROXIN 10 mg/ml, solution injectable;vosaroxin;SUNESIS PHARMACEUTICALS INC;Nominative;Sans Objet;;Sans Objet;NXXXX00;VOSAROXIN SNS 10MG/ML INJ FL;9431919;3400894319191;OUI
+19/02/2019;WARFARIN SODIUM 1 mg/ml, suspension buvable;warfarine sodique;ROSEMONT PHARMACEUTICALS LTD;Nominative;Sans Objet;;Sans Objet;NXXXX00;WARFARIN SODIUM 1MG/ML BUV FL;9400072;3400894000723;NON
+19/02/2019;"XEPIN 5%, crème";²Doxepin hydrochloride;Cambridge Healthcare Supplies;Nominative;Sans Objet;;Sans Objet;NXXXX00;XEPIN 5% CR TB;9407766;3400894077664;NON
+19/02/2019;XIIDRA (lifitegrast) 50 mg/mL, collyre en solution;lifitegrast;SHIRE PHARMACEUTICALS;Nominative;Sans Objet;;Sans Objet;NXXXX00;XIIDRA 50MG/ML CY DOS0,2ML;9444299;3400894442998;NON
+19/02/2019;ZANAMIVIR 10 mg/ml, solution à diluer pour perfusion;zanamivir;GLAXOSMITHKLINE;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZANAMIVIR 10MG/ML GSK FL20ML;9355176;3400893551769;OUI
+19/02/2019;ZELDOX 20 mg, gélule;ziprasidone (chlorhydrate monohydrate);PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZELDOX 20MG GELU             ;9355762;3400893557624;NON
+19/02/2019;ZELDOX 40  mg, gélule;ziprasidone (chlorhydrate monohydrate);PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZELDOX 40MG GELU;9355779;3400893557792;NON
+19/02/2019;ZELDOX 60 mg, gélule;ziprasidone (chlorhydrate monohydrate);PFIZER;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZELDOX 60MG GELU;9300287;3400893002872;NON
+19/02/2019;ZITHROMAX 500 mg, poudre pour solution pour perfusion;azithromycine dihydraté; PFIZER PFE FRANCE;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZITHROMAX 500MG PERF FL;9383480;3400893834800;NON
+19/02/2019;ZOLINZA 100 mg, gélule;vorinostat;MERCK SHARP & DOHME - CHIBRET;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZOLINZA 100MG GELU;9301246;3400893012468;NON
+19/02/2019;ZOSTRIX 0,025%, crème;capsaïcine;HEALTH CARE PRODUCTS;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZOSTRIX 0,025% CR TB56,6G;9297013;3400892970134;NON
+19/02/2019;ZOSTRIX 0,033%, crème;capsaïcine;AKORN CONSUMMER HEALTH;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZOSTRIX 0,033% CR TB;9428484;3400894284840;NON
+19/02/2019;ZOSTRIX 0,1%, crème;capsaïcine;AKORN CONSUMMER HEALTH;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZOSTRIX 0,1% CR TB;9432126;3400894321262;NON
+19/02/2019;ZOSTRIX HP 0,075%, crème;capsaïcine;HEALTH CARE PRODUCTS;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZOSTRIX HP 0,075% CR TB56,6G ;9297007;3400892970073;NON
+19/02/2019;ZYFLO 600 mg, comprimé pelliculé;zileuton;CORNERSTONE THERAPEUTICS INC.;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZYFLO 600MG CPR PELLIC;9299325;3400892993256;NON
+19/02/2019;ZYFLO CR 600 mg, comprimé à libération prolongée;zileuton;CORNERSTONE THERAPEUTICS INC.;Nominative;Sans Objet;;Sans Objet;NXXXX00;ZYFLO CR 600MG CPR LP;9382397;3400893823972;NON

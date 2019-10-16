@@ -1,0 +1,6 @@
+C:\Users\mpt\Desktop\Documents\SQLQueries\PATEXTERNALID_UPDATER\TOOL\ToolInsertMedicamentATU\ToolInsertMedicamentATU\bin\Debug\ToolInsertMedicamentATU.exe.config
+C:\Users\mpt\Desktop\Documents\SQLQueries\PATEXTERNALID_UPDATER\TOOL\ToolInsertMedicamentATU\ToolInsertMedicamentATU\bin\Debug\ToolInsertMedicamentATU.exe
+C:\Users\mpt\Desktop\Documents\SQLQueries\PATEXTERNALID_UPDATER\TOOL\ToolInsertMedicamentATU\ToolInsertMedicamentATU\bin\Debug\ToolInsertMedicamentATU.pdb
+C:\Users\mpt\Desktop\Documents\SQLQueries\PATEXTERNALID_UPDATER\TOOL\ToolInsertMedicamentATU\ToolInsertMedicamentATU\obj\Debug\ToolInsertMedicamentATU.csprojResolveAssemblyReference.cache
+C:\Users\mpt\Desktop\Documents\SQLQueries\PATEXTERNALID_UPDATER\TOOL\ToolInsertMedicamentATU\ToolInsertMedicamentATU\obj\Debug\ToolInsertMedicamentATU.exe
+C:\Users\mpt\Desktop\Documents\SQLQueries\PATEXTERNALID_UPDATER\TOOL\ToolInsertMedicamentATU\ToolInsertMedicamentATU\obj\Debug\ToolInsertMedicamentATU.pdb
